@@ -11,7 +11,7 @@ import os
 DB_CONFIG = {
     'host': 'localhost',        # MySQL 服务器地址 (通常是 'localhost' 或 IP 地址)
     'user': 'finance_app_user', # 您创建的数据库用户名
-    'password': '12345', # 您为用户设置的密码
+    'password': '123', # 您为用户设置的密码
     'database': 'finance_tracker_db' # 您创建的数据库名称
 }
 
