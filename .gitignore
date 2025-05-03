@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*build*/
+*dist*/
+*.egg-info/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.env
+.venv
+
+# IDE configuration files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sublime-*
+
+# OS generated files
+.DS_Store
+Thumbs.db
